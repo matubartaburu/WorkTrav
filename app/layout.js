@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "workTrav",
+  title: "WorkTrav",
   description: "Find your next job abroad",
 };
 
